@@ -86,14 +86,6 @@ Choose based on your threat model and performance requirements.
 
 # **Nordix plans for repo**
 
-**I've been thinking of just trying to get a small repo,<br>
- just to get the system's foundation built for performance.<br>
- This will be relevant later on.**
-
- **What I show here is only to optimize zver4 to the max.<br>
-  My idea is to also do this for CPU architectures: v3 and v4.<br>
-  Maybe something intel specific too**
-
 ## This is tested and is woking with:
 - [**Nordix C-Flags**](/CFLAGS.md)
 
