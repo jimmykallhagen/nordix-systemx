@@ -55,7 +55,7 @@ and if I ever succeed then also a custom proton or wine.
 - -fno-trapping-math
 - -fmerge-all-constants
 - -fno-stack-protector
-- -D_FORTIFY_SOURCE=0
+- -D_FORTIFY_SOURCE=1
 
 ## LD-Flags
 - -flto=full
