@@ -2,9 +2,9 @@
 
 ---
 
-> This is a rolling project and I am not currently actively working on this project, what is available now is a setup I have run on the hyprland stack, it works great, however there is some component in the stack that does not like this setup and if I remember correctly it is hyprutils or hyprtools. However, it may be because it is built with LTO=full and changing to LTO=thin may possibly solve the problem, hyprland and aquamarine do work with this setup and I will soon release an aur package with one of the more powerful optimized setups you can get from your desktop environment based on the AUR packages hypr*-.frozen
+ > This is a rolling project and I am not currently actively working on this project, what is available now is a setup I have run on the hyprland stack, it works great, however there is some component in the stack that does not like this setup and if I remember correctly it is hyprutils or hyprtools. However, it may be because it is built with LTO=full and changing to LTO=thin may possibly solve the problem, hyprland and aquamarine do work with this setup and I will soon release an aur package with one of the more powerful optimized setups you can get from your desktop environment based on the AUR packages hypr*-.frozen
 </br>
->
+
  My idea is to eventually produce a highly optimized Custom build where I also intend to produce PGO profiles for system components such as: 
 
   - [ ] ZFS
