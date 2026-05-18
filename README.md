@@ -1,4 +1,28 @@
-# Nordix znver4 optimizations
+# __*Nordix -SystemX*__
+
+---
+
+> This is a rolling project and I am not currently actively working on this project, what is available now is a setup I have run on the hyprland stack, it works great, however there is some component in the stack that does not like this setup and if I remember correctly it is hyprutils or hyprtools. However, it may be because it is built with LTO=full and changing to LTO=thin may possibly solve the problem, hyprland and aquamarine do work with this setup and I will soon release an aur package with one of the more powerful optimized setups you can get from your desktop environment based on the AUR packages hypr*-.frozen
+</br>
+>
+ My idea is to eventually produce a highly optimized Custom build where I also intend to produce PGO profiles for system components such as: 
+
+  - [ ] ZFS
+  - [ ] Kernel
+  - [ ] Drivers
+  - [ ] Compositor stack
+  - [ ] Ananicy Cpp 
+
+and if I ever succeed then also a custom proton or wine.
+
+---
+
+## ⚠️
+> What is currently published has flags specific to zvnver4, so you must have a CPU that has that particular architecture, znver4 or zvner5. However, it is possible to remove the zver4 flags and then run these on v3-v4 architectures.
+
+---
+
+## Nordix znver4 optimizations
 
 ## Compiler
 - CC=clang
