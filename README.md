@@ -84,15 +84,6 @@ and if I ever succeed then also a custom proton or wine.
 Choose based on your threat model and performance requirements.
 
 
-
-
-
-
-
-
-
-
-
 # **Nordix plans for repo**
 
 **I've been thinking of just trying to get a small repo,<br>
